@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Mehmet Emin INAC"]
   spec.email         = ["mehmetemininac@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "Creates reader methods for constants"
+  spec.description   = "Creates reader methods for constants"
+  spec.homepage      = "https://github.com/meinac/const_reader"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
