@@ -1,6 +1,7 @@
+# frozen_string_literal: true
+
 require "const_reader/version"
+require "const_reader/module"
 
 module ConstReader
-  class Error < StandardError; end
-  # Your code goes here...
 end
